@@ -1,0 +1,32 @@
+[
+    {
+      "OrderID": "2",
+      "UserID": "457",
+      "Condition": {
+        "Name": "accepted",
+        "Description": "accepted from courier"
+      },
+      "DateArrival": "2024-09-02T11:11:00Z",
+      "DateReceiving": "0001-01-01T00:00:00Z"
+    },
+    {
+      "OrderID": "4",
+      "UserID": "456",
+      "Condition": {
+        "Name": "accepted",
+        "Description": "accepted from courier"
+      },
+      "DateArrival": "2024-06-01T13:50:00Z",
+      "DateReceiving": "2024-05-31T00:00:00Z"
+    },
+    {
+      "OrderID": "14234",
+      "UserID": "234234",
+      "Condition": {
+        "Name": "accepted",
+        "Description": "accepted from courier"
+      },
+      "DateArrival": "2024-12-12T05:05:00Z",
+      "DateReceiving": "0001-01-01T00:00:00Z"
+    }
+  ]
